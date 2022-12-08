@@ -18,7 +18,6 @@ function multiply(a, b){
     return a * b;
 }
 ```
-git
 ## Skills
 
 This is the first course for me and i hope to get my skills here.
