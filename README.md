@@ -1,1 +1,1 @@
-# rsschool-cv
+https://walpanee.github.io/rsschool-cv/
