@@ -11,3 +11,9 @@
 
 I want to learn a new profession with the help of RSSchool.
 
+## Code example
+
+function multiply(a, b){
+    return a * b
+}
+
