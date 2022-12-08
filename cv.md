@@ -17,3 +17,11 @@ function multiply(a, b){
     return a * b;
 }
 
+## Skills
+
+This is the first course for me and i hope to get my skills here.
+
+## Language
+
+* russian native
+* english A2
