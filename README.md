@@ -1,1 +1,1 @@
-https://walpanee.github.io/rsschool-cv/cv
+https://walpanee.github.io/rsschool-cv/
